@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-serve/pkg"
+	"github.com/xixisys/go-serve/pkg"
 	"os"
 	"os/signal"
 )
